@@ -1,0 +1,70 @@
+.heading{
+font-family: Algerian;
+font-variant: inherit;
+text-decoration: initial;
+text-align: left;
+text-shadow: yellow 5px 2px 3px;
+width: 100%;
+
+}
+.heading h2{
+    display: inline;
+flood-opacity: initial;
+enable-background: unset;
+animation-name: initial;
+}
+
+.heading button{
+    float:  right;
+    border: medium;
+    box-shadow: yellow 5px 3px 3px;
+}
+
+.big_image{
+    width: 100%;
+}
+
+#start{
+    box-decoration-break: unset;
+    box-shadow: gray 5px 3px 5px;
+    border: black dashed;
+    border-radius: 80px;
+    text-decoration-style: wavy;
+}
+
+#status{
+    box-decoration-break: initial;
+    box-shadow:gray 5px 3px 5px;
+    border: black dashed;
+    border-radius: 90px;
+font-family: Comic Sans Ms;
+}
+.modal-dialog{
+width: 90%;
+}
+.eee{
+border:black dotted;
+box-shadow: blue -7px 5px 5px;
+width: 45%;
+display: inline-block;
+}
+h4{
+    font-family: 'Times New Roman', Times, serif;
+text-shadow: gold 5px 5px 5px;
+width: 100%;
+background-color:black;
+font-size: 30px;
+margin: 0px;
+color: blue; 
+}
+
+video{
+    background:url("game_console.png");
+    background-size: cover;
+    background-position:center;
+    padding: 25px;
+}
+
+
+
+
